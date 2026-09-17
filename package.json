@@ -1,0 +1,23 @@
+{
+  "name": "playwright-qa-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Itterum/playwright-qa-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Itterum/playwright-qa-portfolio/issues"
+  },
+  "homepage": "https://github.com/Itterum/playwright-qa-portfolio#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^22.20.3"
+  }
+}
